@@ -17,13 +17,20 @@ Raha te hiara-hiasa aminay hianao dia , manaova fork => pull request
   create-react-native run-[android/ios]
   
 ```
-Convention nommage
+Fifanarahana amin'ny nommage
 ```
 Ataovy mora azo ny nommage anao amin'ny teny anglais : 
 => class templates  tz-nom-classe
 => Class            TzNomClasse
 => id               id-tz-nom-id
 => function         nomFunctionTz
+```
+Loko sy chart graphique
+```
+indigo => #aa66cc
+Bleu => #1976d2
+Grey => #e9ebee
+
 ```
 
 Documentation sy commentaires
