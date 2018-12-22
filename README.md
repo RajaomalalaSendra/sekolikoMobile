@@ -7,6 +7,9 @@
 Raha te hiara-hiasa aminay hianao dia , manaova fork => pull request
 
 ## Installation 
+
+**Projet sous react-native v0.57 , natao ny 22 desambra 2018 tamin'ny 10 Ora sy 32Min alina**
+
 ```
   git clone https://github.com/julkwel/sekolikMobile.git
   cd sekolikoMobile
@@ -25,7 +28,7 @@ Ataovy mora azo ny nommage anao amin'ny teny anglais :
 
 Documentation sy commentaires
 ```
-=> Ataovy mazava amin'ny teny anglais ny commentaire anao , toy izao ny commentaire rehetra ampiasaina, 
+=> Ataovy mazava amin'ny teny anglais ny commentaire anao , toy izao ny commentaire rehetra ampiasaina,
 ezahina ny tsy hampiasa " // "
 
 /**
