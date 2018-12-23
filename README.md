@@ -14,7 +14,7 @@ Raha te hiara-hiasa aminay hianao dia , manaova fork => pull request
   git clone https://github.com/julkwel/sekolikMobile.git
   cd sekolikoMobile
   npm install
-  create-react-native run-[android/ios]
+  react-native run-[android/ios]
   
 ```
 Fifanarahana amin'ny nommage
